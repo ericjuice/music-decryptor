@@ -1,6 +1,6 @@
 ## Music Decryptor
 
-Simplified version of [decrypt-mflac-frid](https://github.com/yllhwa/decrypt-mflac-frid)
+Simplified version of [decrypt-mflac-frida](https://github.com/yllhwa/decrypt-mflac-frida)
 
 Supports:
 - Platform: Windows10/11
