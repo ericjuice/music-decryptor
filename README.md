@@ -14,3 +14,6 @@ Supports:
     pip install -r requirements.txt
     python decrypt-mflac-frida.py -i <input_dir> -o <output_dir>
     ```
+
+## Warning
+This tool is only for educational purposes and is not intended for commercial use.
