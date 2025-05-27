@@ -12,7 +12,7 @@ Supports:
 2. run the following command
     ```bash
     pip install -r requirements.txt
-    python decrypt-mflac-frida.py -i <input_dir> -o <output_dir>
+    python main.py -i <input_dir> -o <output_dir>
     ```
 
 ## Warning
