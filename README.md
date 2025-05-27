@@ -1,5 +1,8 @@
 ## Music Decryptor
 
+Just batch decrypt the vip songs downloaded by QQMusic.
+You should have vip privilege to download songs.
+
 Simplified version of [decrypt-mflac-frida](https://github.com/yllhwa/decrypt-mflac-frida)
 
 Supports:
